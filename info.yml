@@ -1,0 +1,32 @@
+project:
+  name: 'q2q'
+  owner: 'CS169L-22'
+  teamId: 'Berkeley Food Collective'
+  identities:
+    pivotal: 'https://www.pivotaltracker.com/projects/2552845'
+    heroku: 'https://damp-chamber-04161.herokuapp.com/'
+  members:
+    member1:
+      name: 'Andrew'
+      surname: 'Mo' 
+      githubUsername: 'andrewmopro'
+      pivotalUsername: 'andrewmo1'
+      herokuEmail: 'andrewmo@berkeley.edu'
+    member2:
+      name: 'Andrew'
+      surname: 'Mo' 
+      githubUsername: 'andrewmopro'
+      pivotalUsername: 'andrewmo1'
+      herokuEmail: 'andrewmo@berkeley.edu'
+    member3:
+      name: 'Andrew'
+      surname: 'Mo' 
+      githubUsername: 'andrewmopro'
+      pivotalUsername: 'andrewmo1'
+      herokuEmail: 'andrewmo@berkeley.edu'
+    member4:
+      name: 'Andrew'
+      surname: 'Mo' 
+      githubUsername: 'andrewmopro'
+      pivotalUsername: 'andrewmo1'
+      herokuEmail: 'andrewmo@berkeley.edu'
